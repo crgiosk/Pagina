@@ -1,4 +1,4 @@
 $('#formulario').submit(function(e){
-    alert("Elemtos del js: "+$(this).serialize());
+    alert("Elemtos del formulario: "+$(this).serialize());
     e.preventDefault();
 });
