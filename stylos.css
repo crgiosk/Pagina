@@ -1,8 +1,9 @@
 body{
     padding-top: 10px;
-    background-color: rgb(59, 196, 250);
+    background-color: rgb(231, 255, 20);
 }
 .contenedor{
     width: 500px;
     margin: 0 auto;
+    background-color: rgb(231, 255, 20);
 }
